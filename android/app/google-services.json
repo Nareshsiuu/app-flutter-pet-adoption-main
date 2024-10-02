@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217510845176",
+    "project_id": "pet-adoption-a2095",
+    "storage_bucket": "pet-adoption-a2095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217510845176:android:f51ac01cd12204fb95f90d",
+        "android_client_info": {
+          "package_name": "com.example.app_flutter_pet_adoption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVU9DBRXpLh6FXF_tJMaQUG1n16-onBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
